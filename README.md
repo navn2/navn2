@@ -71,5 +71,5 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/assets/images/landscape.jpg" width="100%" style="border-radius: 10px;" alt="Footer Landscape" />
+  <img src="footer.png" width="100%" style="border-radius: 10px;" alt="Footer Landscape" />
 </div>
