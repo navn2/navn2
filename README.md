@@ -1,9 +1,12 @@
 <div align="center">
 
-<!-- Suggestion: A 90s anime lo-fi cityscape or retro-tech illustration goes here -->
+<!-- Suggestion: Your 90s anime lo-fi cityscape or retro-tech illustration goes here -->
 <img src="banner.png" width="100%" alt="Profile Banner" style="border-radius: 8px;" />
 
-<br><br>
+<!-- Falling Sakura Petals Animation (Transparent) -->
+<img src="https://raw.githubusercontent.com/MatsunagaYuta/MatsunagaYuta/main/images/sakura.gif" width="200" style="margin-top: -20px;" />
+
+<br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Rounded+1c&weight=500&size=24&duration=3000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=800&lines=システムエンジニア;Building+Intelligent+Engineering+Systems;Real-Time+Operating+Systems;Hardware+Meets+Software" />
 
@@ -13,11 +16,17 @@
 
 <br>
 
+<!-- Calming Pixel Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="40%" style="filter: grayscale(100%) opacity(30%);" />
+</div>
+
+<br>
+
 ### ✦ 技術 | TECH ARSENAL
 
 <div align="center">
 
-<!-- Dark indigo backgrounds with Sakura pink logo accents -->
 ![C](https://img.shields.io/badge/C-2C363F?style=for-the-badge&logo=c&logoColor=FFB7C5)
 ![Python](https://img.shields.io/badge/Python-2C363F?style=for-the-badge&logo=python&logoColor=FFB7C5)
 ![QNX](https://img.shields.io/badge/QNX_RTOS-2C363F?style=for-the-badge&logo=blackberry&logoColor=FFB7C5)
@@ -29,13 +38,26 @@
 
 <br>
 
+<!-- Calming Pixel Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="40%" style="filter: grayscale(100%) opacity(30%);" />
+</div>
+
+<br>
+
 ### ✦ 軌跡 | NEURAL PATHWAYS
 
 <div align="center">
 
-<!-- Your snake is back in its rightful place -->
 <img src="https://raw.githubusercontent.com/navn2/navn2/output/snake.svg" alt="Snake animation" />
 
+</div>
+
+<br>
+
+<!-- Calming Pixel Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="40%" style="filter: grayscale(100%) opacity(30%);" />
 </div>
 
 <br>
