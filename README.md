@@ -118,5 +118,15 @@ FOCUS  : INTELLIGENT SYSTEMS
 
 ═══════════════════════════════════════════
 
+# 🐍 NEURAL PATHWAYS
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/navn2/navn2/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+═══════════════════════════════════════════
+
 
 
