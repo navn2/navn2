@@ -4,7 +4,7 @@
 
 <br>
 
-<h2>Namaste 🙏 I'm Naveen</h2>
+<h2>I'm Naveen</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=navn2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
