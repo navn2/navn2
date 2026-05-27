@@ -18,18 +18,18 @@
 <table>
   <tr>
     <td width="60%">
-      <h3>💫 About Me</h3>
+      <h3>✦ CURRENT DIRECTIVES</h3>
+      <p><i>Building systems where software gracefully interacts with reality.</i></p>
       <ul>
-        <li>🎓 I am currently a 3rd-year engineering student, heavily focused on hardware-software integration.</li>
-        <li>⚙️ I specialize in Real-Time Operating Systems (RTOS), with active projects focused on the microkernel architecture of QNX Neutrino and adaptive mixed-criticality task managers.</li>
-        <li>💻 Currently building a local-first, feature-rich note-taking application exclusively for Windows using Flutter.</li>
-        <li>📡 My research involves implementing Computer Vision and CNNs for RF signal classification and surveillance.</li>
-        <li>🤝 I actively lead technical teams and manage sponsorship planning for national-level techno-management festivals.</li>
+        <li><b>Architecting:</b> Adaptive mixed-criticality task managers using QNX Neutrino RTOS.</li>
+        <li><b>Researching:</b> Computer Vision and CNN pipelines for RF signal classification.</li>
+        <li><b>Shipping:</b> A local-first, data-driven Windows native application via Flutter.</li>
+        <li><b>Leading:</b> Technical operations and sponsorship logistics for national techno-management festivals.</li>
       </ul>
     </td>
     <td width="40%" align="center">
       <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Animated illustration" width="100%" />
-      </td>
+    </td>
   </tr>
 </table>
 
