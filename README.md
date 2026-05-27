@@ -24,7 +24,7 @@
 
 <br>
 
-```txt
+
 NAVEEN // ENGINEERING INTERFACE
 
 → Embedded Systems
@@ -36,9 +36,9 @@ NAVEEN // ENGINEERING INTERFACE
 STATUS : BUILDING
 MODE   : EXPERIMENTAL
 FOCUS  : INTELLIGENT SYSTEMS
-````
 
-```
-```
+
+
+
 
 
