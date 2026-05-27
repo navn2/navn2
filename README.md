@@ -79,7 +79,10 @@ FOCUS  : INTELLIGENT SYSTEMS
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navn2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=navn2&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=b026ff&currStreakLabel=00F7FF" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=navn2&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=b026ff&currStreakLabel=00F7FF" />
+
+
 
 </div>
 
