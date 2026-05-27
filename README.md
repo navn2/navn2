@@ -16,11 +16,29 @@
 
 
 
----
-
 <div align="center">
 
+<img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-00F7FF?style=for-the-badge&labelColor=0d1117" />
 
+</div>
+
+<br>
+
+```txt
+NAVEEN // ENGINEERING INTERFACE
+
+→ Embedded Systems
+→ AI + Intelligent Automation
+→ Robotics & Control Systems
+→ Real-Time Computational Engineering
+→ Hardware + Software Integration
+
+STATUS : BUILDING
+MODE   : EXPERIMENTAL
+FOCUS  : INTELLIGENT SYSTEMS
+````
 
 ```
+```
+
 
