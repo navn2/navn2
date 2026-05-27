@@ -1,177 +1,64 @@
-
-
 <div align="center">
 
-<img src="banner.png" width="100%" />
+<img src="banner.png" width="100%" alt="Profile Banner" style="border-radius: 10px;" />
 
-</div>
+<br><br>
 
+# 組み込みシステム ✧ EMBEDDED SYSTEMS
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Rounded+1c&weight=500&size=22&duration=3000&pause=1000&color=F15BB5&center=true&vCenter=true&width=800&lines=Building+Intelligent+Engineering+Systems;Real-Time+Operating+Systems+(RTOS);Computer+Vision+%26+Signal+Processing;Hardware+Meets+Software" />
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=500&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=Embedded+Systems+Developer;AI+%2B+Robotics+Explorer;Building+Intelligent+Engineering+Systems" />
+<p><i>Engineering systems where software gracefully interacts with reality.</i></p>
 
 </div>
 
 <br>
 
+### ✦ アーセナル | TECH ARSENAL
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge&labelColor=0d1117"/>
-
-<img src="https://img.shields.io/badge/MODE-EXPERIMENTAL-b026ff?style=for-the-badge&labelColor=0d1117"/>
-
-<img src="https://img.shields.io/badge/FOCUS-INTELLIGENT_SYSTEMS-7928CA?style=for-the-badge&labelColor=0d1117"/>
+![C](https://img.shields.io/badge/C-A8B9E0?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F15BB5?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-9B5DE5?style=flat-square&logo=mathworks&logoColor=white)
+![QNX](https://img.shields.io/badge/QNX_RTOS-FF9EAA?style=flat-square&logo=blackberry&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32_&_ESP32-A8B9E0?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter_(Windows)-F15BB5?style=flat-square&logo=flutter&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8_&_CNNs-9B5DE5?style=flat-square&logo=opencv&logoColor=white)
 
 </div>
 
 <br>
 
-```txt
-┌──────────────────────────────────────────────┐
-│ NAVEEN // ENGINEERING INTERFACE              │
-├──────────────────────────────────────────────┤
-│ → Embedded Systems                           │
-│ → Robotics + Intelligent Automation          │
-│ → Real-Time Computational Engineering        │
-│ → Hardware + Software Integration            │
-└──────────────────────────────────────────────┘
-````
-
-<br>
+### ✦ アナリティクス | SYSTEM ANALYTICS
 
 <div align="center">
 
-<i>
-Engineering systems where software interacts with reality.
-</i>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=navn2&show_icons=true&title_color=F15BB5&icon_color=9B5DE5&text_color=8a8a8a&bg_color=00000000&hide_border=true&font=M+PLUS+Rounded+1c" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navn2&layout=compact&title_color=F15BB5&text_color=8a8a8a&bg_color=00000000&hide_border=true&font=M+PLUS+Rounded+1c" />
+
+<br><br>
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=navn2&bg_color=00000000&color=8a8a8a&line=F15BB5&point=9B5DE5&hide_border=true" />
 
 </div>
 
 <br>
 
-═══════════════════════════════════════════
-
-
-# ⚡ TECH ARSENAL
-
-<img src="https://skillicons.dev/icons?i=python,c,matlab,git,vscode,arduino,linux" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-| SYSTEM | STACK |
-|---|---|
-| LANGUAGES | Python • C • Embedded C |
-| SIMULATION | MATLAB • Simulink |
-| HARDWARE | Arduino • Sensors • RF Systems |
-| TOOLS | Git • VS Code • Linux |
-| DOMAINS | Embedded • AI • Robotics • Automation |
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/FOCUS-INTELLIGENT_SYSTEMS-00F7FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/MODE-EXPERIMENTAL-b026ff?style=for-the-badge&labelColor=0d1117" />
-
-</div>
-
-═══════════════════════════════════════════
-
-
-# ⚡ SYSTEM ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=navn2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
-
-
-<img height="180em" src="https://streak-stats.demolab.com?user=navn2&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=b026ff&currStreakLabel=00F7FF" />
-
-
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navn2&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=c9d1d9" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00F7FF?style=for-the-badge&labelColor=0d1117" />
-
-<img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-b026ff?style=for-the-badge&labelColor=0d1117" />
-
-</div>
-
-═══════════════════════════════════════════
-
-
-
-# 🌌 NEURAL ACTIVITY GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navn2&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00F7FF&line=b026ff&point=ffffff" />
-
-</div>
-
-═══════════════════════════════════════════
-
-# 🐍 NEURAL PATHWAYS
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/navn2/navn2/output/snake.svg" alt="Snake animation" />
-
-</div>
-
-═══════════════════════════════════════════
-
-
-# 🌐 CONNECT
+### ✦ ネットワーク | CONNECT
 
 <div align="center">
 
 <a href="https://github.com/navn2">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/GitHub-4A4A4A?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/naveenv09">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/LinkedIn-4A4A4A?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-```txt
-"Engineering becomes art
- when intelligence interacts with reality."
-````
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F15BB5,100:9B5DE5"/>
 
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
-
-```
-
-
