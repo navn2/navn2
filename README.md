@@ -39,6 +39,40 @@ FOCUS  : INTELLIGENT SYSTEMS
 ```
 
 
+<div align="center">
+
+# ⚡ TECH ARSENAL
+
+<img src="https://skillicons.dev/icons?i=python,c,matlab,git,vscode,arduino,linux" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+| SYSTEM | STACK |
+|---|---|
+| LANGUAGES | Python • C • Embedded C |
+| SIMULATION | MATLAB • Simulink |
+| HARDWARE | Arduino • Sensors • RF Systems |
+| TOOLS | Git • VS Code • Linux |
+| DOMAINS | Embedded • AI • Robotics • Automation |
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FOCUS-INTELLIGENT_SYSTEMS-00F7FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MODE-EXPERIMENTAL-b026ff?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+═══════════════════════════════════════════
+
+
 
 
 
