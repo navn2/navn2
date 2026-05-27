@@ -108,4 +108,15 @@ FOCUS  : INTELLIGENT SYSTEMS
 
 
 
+# 🌌 NEURAL ACTIVITY GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navn2&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00F7FF&line=b026ff&point=ffffff" />
+
+</div>
+
+═══════════════════════════════════════════
+
+
 
