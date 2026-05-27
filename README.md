@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=NAVEEN&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=building%20intelligent%20systems%20where%20hardware%20meets%20software&descAlignY=55&descSize=18"/>
@@ -46,4 +46,4 @@ philosophy:
 ```
 
 ```
-```
+
