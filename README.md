@@ -1,73 +1,75 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="System Banner" style="border-radius: 12px;" />
+<img src="banner.png" width="100%" alt="Retro Tech Banner" />
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Rounded+1c&weight=800&size=26&duration=3000&pause=1000&color=D05CE3&center=true&vCenter=true&width=800&lines=STATUS+WINDOW:+ONLINE;CLASS:+EMBEDDED+SYSTEMS+ENGINEER;LEVEL:+03;CURRENT+QUEST:+BUILDING+INTELLIGENT+SYSTEMS" />
+<h2>Namaste 🙏 I'm Naveen</h2>
 
-<p><i>「 System initialization complete. Software is interacting with reality. 」</i></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=navn2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/navn2?label=Followers&style=flat&color=333333" alt="Followers" />
+</p>
 
+</div>
+
+---
+
+<table>
+  <tr>
+    <td width="60%">
+      <h3>💫 About Me</h3>
+      <ul>
+        <li>🎓 I am currently a 3rd-year engineering student, heavily focused on hardware-software integration.</li>
+        <li>⚙️ I specialize in Real-Time Operating Systems (RTOS), with active projects focused on the microkernel architecture of QNX Neutrino and adaptive mixed-criticality task managers.</li>
+        <li>💻 Currently building a local-first, feature-rich note-taking application exclusively for Windows using Flutter.</li>
+        <li>📡 My research involves implementing Computer Vision and CNNs for RF signal classification and surveillance.</li>
+        <li>🤝 I actively lead technical teams and manage sponsorship planning for national-level techno-management festivals.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Animated illustration" width="100%" />
+      </td>
+  </tr>
+</table>
+
+<br>
+
+<h3>📫 Connect with me:</h3>
+<p align="left">
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/naveenv09"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/navn2"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navn2&show_icons=true&theme=nord&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navn2&layout=compact&theme=nord&hide_border=true" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-
-### ✦ SKILL TRACKER
-
-![C](https://img.shields.io/badge/C-150E1F?style=for-the-badge&logo=c&logoColor=D05CE3)
-![Python](https://img.shields.io/badge/Python-150E1F?style=for-the-badge&logo=python&logoColor=D05CE3)
-![QNX](https://img.shields.io/badge/QNX_RTOS-150E1F?style=for-the-badge&logo=blackberry&logoColor=D05CE3)
-![STM32](https://img.shields.io/badge/STM32_&_ESP32-150E1F?style=for-the-badge&logo=stmicroelectronics&logoColor=D05CE3)
-![Flutter](https://img.shields.io/badge/Flutter_(Windows)-150E1F?style=for-the-badge&logo=flutter&logoColor=D05CE3)
-![YOLOv8](https://img.shields.io/badge/YOLOv8_&_CNNs-150E1F?style=for-the-badge&logo=opencv&logoColor=D05CE3)
-
+  <h3>📚 Languages & Tools I Have Placed My Hands On</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,flutter,dart,linux,ubuntu,arduino,raspberrypi,git,github,vscode,idea,firebase,gcp&perline=8" />
 </div>
 
 <br>
 
 <div align="center">
-
-### ✦ SYSTEM STATS & XP
-
-| PROGRESS DASHBOARD | XP DISTRIBUTION |
-| :---: | :---: |
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navn2&show_icons=true&title_color=D05CE3&icon_color=ECA8FF&text_color=E0D4F5&bg_color=150e1f&hide_border=true&font=M+PLUS+Rounded+1c" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navn2&layout=compact&title_color=D05CE3&text_color=E0D4F5&bg_color=150e1f&hide_border=true&font=M+PLUS+Rounded+1c" /> |
-
+  <h3>💻 Tech Stack:</h3>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/QNX_RTOS-000000?style=flat-square&logo=blackberry&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </div>
 
 <br>
 
 <div align="center">
-
-### ✦ ACTIVITY GRAPH (HABIT TRACKER)
-
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=navn2&bg_color=150e1f&color=E0D4F5&line=D05CE3&point=ECA8FF&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ✦ NEURAL PATHWAYS
-
-<img src="https://raw.githubusercontent.com/navn2/navn2/output/snake.svg" alt="Snake animation" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ✦ SYSTEM CONNECTION
-
-<a href="https://github.com/navn2">
-  <img src="https://img.shields.io/badge/GitHub-150E1F?style=for-the-badge&logo=github&logoColor=D05CE3"/>
-</a>
-<a href="https://linkedin.com/in/naveenv09">
-  <img src="https://img.shields.io/badge/LinkedIn-150E1F?style=for-the-badge&logo=linkedin&logoColor=D05CE3"/>
-</a>
-
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/assets/images/landscape.jpg" width="100%" style="border-radius: 10px;" alt="Footer Landscape" />
 </div>
