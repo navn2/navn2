@@ -32,11 +32,11 @@ NAVEEN // ENGINEERING INTERFACE
 → Robotics & Control Systems
 → Real-Time Computational Engineering
 → Hardware + Software Integration
-```
+
 STATUS : BUILDING
 MODE   : EXPERIMENTAL
 FOCUS  : INTELLIGENT SYSTEMS
-
+```
 
 
 
