@@ -1,4 +1,3 @@
-# 🌌 `README.md` — GitHub Profile
 
 ````md
 <div align="center">
