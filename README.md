@@ -7,39 +7,53 @@
 </div>
 
 
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=500&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Embedded+Systems+Developer;AI+%2B+Robotics+Explorer;Building+Real-Time+Intelligent+Systems;Engineering+with+a+Cinematic+Mindset" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=500&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=Embedded+Systems+Developer;AI+%2B+Robotics+Explorer;Building+Intelligent+Engineering+Systems" />
 
 </div>
 
-
+<br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-00F7FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge&labelColor=0d1117"/>
+
+<img src="https://img.shields.io/badge/MODE-EXPERIMENTAL-b026ff?style=for-the-badge&labelColor=0d1117"/>
+
+<img src="https://img.shields.io/badge/FOCUS-INTELLIGENT_SYSTEMS-7928CA?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
 <br>
 
 ```txt
-NAVEEN // ENGINEERING INTERFACE
+┌──────────────────────────────────────────────┐
+│ NAVEEN // ENGINEERING INTERFACE              │
+├──────────────────────────────────────────────┤
+│ → Embedded Systems                           │
+│ → Robotics + Intelligent Automation          │
+│ → Real-Time Computational Engineering        │
+│ → Hardware + Software Integration            │
+└──────────────────────────────────────────────┘
+````
 
-→ Embedded Systems
-→ AI + Intelligent Automation
-→ Robotics & Control Systems
-→ Real-Time Computational Engineering
-→ Hardware + Software Integration
-
-STATUS : BUILDING
-MODE   : EXPERIMENTAL
-FOCUS  : INTELLIGENT SYSTEMS
-```
-
+<br>
 
 <div align="center">
+
+<i>
+Engineering systems where software interacts with reality.
+</i>
+
+</div>
+
+<br>
+
+═══════════════════════════════════════════
+
 
 # ⚡ TECH ARSENAL
 
