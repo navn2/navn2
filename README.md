@@ -73,6 +73,36 @@ FOCUS  : INTELLIGENT SYSTEMS
 ═══════════════════════════════════════════
 
 
+# ⚡ SYSTEM ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=navn2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=navn2&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=b026ff&currStreakLabel=00F7FF" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navn2&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=c9d1d9" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00F7FF?style=for-the-badge&labelColor=0d1117" />
+
+<img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-b026ff?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+═══════════════════════════════════════════
+
 
 
 
