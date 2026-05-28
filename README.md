@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Retro Tech Banner" />
+<img src="banner.mp4" width="100%" alt="Retro Tech Banner" />
 
 <br>
 
