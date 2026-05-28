@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.gif" width="100%" alt="Retro Tech Banner" />
+<img src="banner1.gif" width="100%" alt="Retro Tech Banner" />
 
 <br>
 
