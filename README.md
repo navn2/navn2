@@ -34,41 +34,78 @@
 </table>
 
 <br>
+````md
+<h3 align="left">┌── CONNECTION_PROTOCOL</h3>
 
-<h3>📫 Connect with me:</h3>
 <p align="left">
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://linkedin.com/in/naveenv09"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/navn2"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/GMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+  </a>
+
+  <a href="https://linkedin.com/in/navn2">
+    <img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+  </a>
+
+  <a href="https://github.com/navn2">
+    <img src="https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  </a>
 </p>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navn2&show_icons=true&theme=nord&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navn2&layout=compact&theme=nord&hide_border=true" width="48%" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=navn2&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=222222&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navn2&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=222222&hide_border=true"/>
+
 </div>
 
 <br>
 
 <div align="center">
-  <h3>📚 Languages & Tools I Have Placed My Hands On</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,flutter,dart,linux,ubuntu,arduino,raspberrypi,git,github,vscode,idea,firebase,gcp&perline=8" />
+
+## // TOOLCHAIN
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,flutter,dart,linux,arduino,raspberrypi,git,github,vscode,firebase&theme=dark" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <h3>💻 Tech Stack:</h3>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/QNX_RTOS-000000?style=flat-square&logo=blackberry&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+## // ENGINEERING_STACK
+
+<img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/FLUTTER-111111?style=for-the-badge&logo=flutter&logoColor=white" />
+
+<img src="https://img.shields.io/badge/QNX_RTOS-111111?style=for-the-badge&logo=blackberry&logoColor=white" />
+
+<img src="https://img.shields.io/badge/STM32-111111?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+
+<img src="https://img.shields.io/badge/LINUX-111111?style=for-the-badge&logo=linux&logoColor=white" />
+
+<img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-111111?style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/AI_&_ML-111111?style=for-the-badge&logoColor=white" />
+
 </div>
 
 <br>
+
+<div align="center">
+
+```txt
+> BUILD • SIMULATE • IMPLEMENT
+````
+
+</div>
+```
+
 
 <div align="center">
   <img src="footer1.gif" width="100%" style="border-radius: 10px;" alt="Footer Landscape" />
