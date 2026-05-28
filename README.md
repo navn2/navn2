@@ -34,29 +34,79 @@
 </table>
 
 <br>
-<h3 align="left">┌── CONNECTION_PROTOCOL</h3>
+<!-- TERMINAL DIVIDER -->
 
-<p align="left">
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/GMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-  </a>
-
-  <a href="https://linkedin.com/in/navn2">
-    <img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-  </a>
-
-  <a href="https://github.com/navn2">
-    <img src="https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-  </a>
-</p>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:111111&height=2&section=header"/>
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=navn2&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=222222&hide_border=true"/>
+<img src="assets/banner.gif" width="100%" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navn2&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=222222&hide_border=true"/>
+</div>
+
+<br>
+
+<!-- SYSTEM BOOT -->
+
+<div align="center">
+
+```txt
+> INITIALIZING_ENGINEERING_INTERFACE...
+> STATUS : ONLINE
+> USER   : NAVEEN
+````
+
+</div>
+
+---
+
+# `> CONNECTION_PROTOCOL`
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL_HERE">
+<img src="https://img.shields.io/badge/MAIL_INTERFACE-050505?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+</a>
+
+<a href="https://linkedin.com/in/navn2">
+<img src="https://img.shields.io/badge/LINKEDIN_NODE-050505?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+</a>
+
+<a href="https://github.com/navn2">
+<img src="https://img.shields.io/badge/GITHUB_CORE-050505?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- LIVE STATUS -->
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=navn2&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=222222&hide_border=false"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navn2&layout=compact&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=8b949e&border_color=222222&hide_border=false"/>
+
+</div>
+
+<br>
+
+<!-- CYBER GRID -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=EMBEDDED+SYSTEMS;ROBOTICS+%26+AUTOMATION;AI+%26+MACHINE+LEARNING;REAL_TIME+SYSTEMS;HARDWARE+%2B+SOFTWARE+INTEGRATION"/>
+
+</div>
+
+---
+
+# `> TOOLCHAIN_MATRIX`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,flutter,dart,linux,arduino,raspberrypi,git,github,vscode,firebase&theme=dark"/>
 
 </div>
 
@@ -64,9 +114,9 @@
 
 <div align="center">
 
-## // TOOLCHAIN
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,flutter,dart,linux,arduino,raspberrypi,git,github,vscode,firebase&theme=dark" />
+```txt
+[ SYSTEM MODULES LOADED ]
+```
 
 </div>
 
@@ -74,23 +124,45 @@
 
 <div align="center">
 
-## // ENGINEERING_STACK
+<img src="https://img.shields.io/badge/C_SYSTEMS-0d1117?style=for-the-badge&logo=c&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON_AUTOMATION-0d1117?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FLUTTER_UI-0d1117?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/FLUTTER-111111?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/QNX_RTOS-0d1117?style=for-the-badge&logo=blackberry&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/QNX_RTOS-111111?style=for-the-badge&logo=blackberry&logoColor=white" />
+<img src="https://img.shields.io/badge/STM32_CORE-0d1117?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/STM32-111111?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/LINUX_ENVIRONMENT-0d1117?style=for-the-badge&logo=linux&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LINUX-111111?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/EMBEDDED_AI-0d1117?style=for-the-badge&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-111111?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ROBOTICS_AUTOMATION-0d1117?style=for-the-badge&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AI_&_ML-111111?style=for-the-badge&logoColor=white" />
+</div>
+
+<br>
+
+---
+
+# `> CURRENT_FOCUS`
+
+<div align="center">
+
+```txt
+INTELLIGENT_SYSTEMS • EMBEDDED_AI • ROBOTICS • REAL_TIME_COMPUTING
+```
+
+</div>
+
+<br>
+
+<!-- FOOTER -->
+
+<div align="center">
+
+<img src="assets/footer.gif" width="100%" />
 
 </div>
 
@@ -100,7 +172,13 @@
 
 ```txt
 > BUILD • SIMULATE • IMPLEMENT
-````
+> ENGINEERING BECOMES ART WHEN INTELLIGENCE INTERACTS WITH REALITY
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:050505&height=2&section=footer"/>
+
 
 </div>
 
