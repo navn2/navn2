@@ -34,7 +34,6 @@
 </table>
 
 <br>
-````md
 <h3 align="left">┌── CONNECTION_PROTOCOL</h3>
 
 <p align="left">
@@ -104,7 +103,6 @@
 ````
 
 </div>
-```
 
 
 <div align="center">
