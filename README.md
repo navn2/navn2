@@ -71,5 +71,5 @@
 <br>
 
 <div align="center">
-  <img src="footer.png" width="100%" style="border-radius: 10px;" alt="Footer Landscape" />
+  <img src="footer1.gif" width="100%" style="border-radius: 10px;" alt="Footer Landscape" />
 </div>
