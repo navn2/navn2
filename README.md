@@ -26,12 +26,13 @@
         <li><b>Shipping:</b> A local-first, data-driven Windows native application via Flutter.</li>
         <li><b>Leading:</b> Technical operations and sponsorship logistics for national techno-management festivals.</li>
       </ul>
-    </td>
+  </tr>
+</table>
+
+ </td>
     <td width="40%" align="center">
       <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Animated illustration" width="100%" />
     </td>
-  </tr>
-</table>
 
 <br>
 <!-- TERMINAL DIVIDER -->
